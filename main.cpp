@@ -46,7 +46,6 @@ using namespace std;
          linenoiseFree(line);
 
      }
-
  }
  //void debugger::handle_command(const string& line)
 // {
