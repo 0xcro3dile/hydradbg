@@ -10,7 +10,6 @@
 #include "include/debugger.hpp"
 using namespace std;
 
-
  class debugger
  {
 
