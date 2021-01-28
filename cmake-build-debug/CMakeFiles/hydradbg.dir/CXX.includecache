@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmed/CLionProjects/hydradbg/ext/linenoise-c894b9e59f02203dbe4e2be657572cf88c4230c3/linenoise.h
+
+/home/ahmed/CLionProjects/hydradbg/main.cpp
+bits/stdc++.h
+-
+sys/ptrace.h
+-
+sys/wait.h
+/home/ahmed/CLionProjects/hydradbg/sys/wait.h
+sys/personality.h
+/home/ahmed/CLionProjects/hydradbg/sys/personality.h
+unistd.h
+/home/ahmed/CLionProjects/hydradbg/unistd.h
+sys/types.h
+/home/ahmed/CLionProjects/hydradbg/sys/types.h
+sys/stat.h
+/home/ahmed/CLionProjects/hydradbg/sys/stat.h
+fcntl.h
+/home/ahmed/CLionProjects/hydradbg/fcntl.h
+ext/linenoise-c894b9e59f02203dbe4e2be657572cf88c4230c3/linenoise.h
+/home/ahmed/CLionProjects/hydradbg/ext/linenoise-c894b9e59f02203dbe4e2be657572cf88c4230c3/linenoise.h
+
