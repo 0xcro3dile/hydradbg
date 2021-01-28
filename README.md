@@ -1,6 +1,5 @@
 # Hyrdadbg
 
-[![Build Status]
 
 * Hydradbg is a project linux debugger
 * 
