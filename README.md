@@ -11,21 +11,28 @@
 </pre>
 
 ## Installing and how to use
+<pre>
 
-See instructions on [qira.me](http://qira.me/) to install 1.3
+</pre>
 
 ## Installing trunk
 
+<pre>
 
+</pre>
 
 ## Installation Extras
 
+<pre>
 
+</pre>
 
 
 
 
 ## Installation on Windows ()
+<pre>
 
+</pre>
 
 
